@@ -30,7 +30,7 @@ Click [here]() to preview
 - [x] Code Editor
   - Vs Code
 - [x] Design
-    - Figma - To design 
+    - Figma - To design 👇
     
     ![text](images/text.PNG) ,![card](images/card.PNG)
 - [x] Languages:
